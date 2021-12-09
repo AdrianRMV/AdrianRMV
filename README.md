@@ -8,8 +8,8 @@ I'm Adrian, a 20 years old web developer from Mexico.
 
 ## Skills
 - 👨‍💻 JavaScript, PHP
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👁️ SASS, CSS, Tailwind
+- 💽 MySQL, SQL
 
 ## Contact
 - [@adrianrmv01](https://www.instagram.com/adrianrmv01/) on Instagram

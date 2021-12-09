@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Adrina, a 20 years old web developer from Mexico.
+I'm Adrian, a 20 years old web developer from Mexico.
 
 
 ## Skills
@@ -12,5 +12,5 @@ I'm Adrina, a 20 years old web developer from Mexico.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [@adrianrmv01](https://https://www.instagram.com/adrianrmv01/) on Instagram
+- [@adrianrmv01](https://www.instagram.com/adrianrmv01/) on Instagram
 - [Adrian Ramirez Vazquez#2667](./) on Discord

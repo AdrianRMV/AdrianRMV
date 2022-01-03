@@ -7,9 +7,9 @@ I'm Adrian, a 20 years old web developer from Mexico.
 
 
 ## Skills
-- 👨‍💻 JavaScript, PHP
+- 👨‍💻 JavaScript, PHP, Java, Python
 - 👁️ SASS, CSS, Tailwind
-- 💽 MySQL, SQL
+- 💽 MySQL, SQL, Node.js
 
 ## Contact
 - [@adrianrmv01](https://www.instagram.com/adrianrmv01/) on Instagram

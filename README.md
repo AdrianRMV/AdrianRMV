@@ -15,6 +15,9 @@ I'm Adrian, a 20 years old web developer from Mexico.
 - [@adrianrmv01](https://www.instagram.com/adrianrmv01/) on Instagram
 - [Adrian Ramirez Vazquez#2667](./) on Discord
 
+![AdrianRMV Github Stats](https://github-readme-stats.vercel.app/api?username=AdrianRMV&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRMV&hide=TeX&layout=compact)
+
 <table width="100%"> 
   <tr>
   <td width="50%">

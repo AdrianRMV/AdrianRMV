@@ -7,7 +7,7 @@ I'm Adrian, a 20 years old web developer from Mexico.
 
 
 ## Skills
-- 👨‍💻 JavaScript, React, Electron, PHP, Java, Python
+- 👨‍💻 JavaScript, React, Vue, Electron, PHP, Java, Python
 - 👁️ CSS, SASS, Bootstrap
 - 💽 MySQL, SQL, Node.js
 

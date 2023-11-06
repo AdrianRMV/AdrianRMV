@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Adrian, a 21 years old web developer from Mexico.
+I'm Adrian, a 22 years old web developer from La Paz B.C.S 📍.
 
 
 ## Skills

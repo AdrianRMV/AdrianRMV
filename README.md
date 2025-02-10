@@ -3,13 +3,13 @@
 </h1>
 
 ## Hey! 👋
-I'm Adrian, a 22 years old web developer from La Paz B.C.S 📍.
+I'm Adrian, a 23 years old web developer from La Paz B.C.S 📍.
 
 
 ## Skills
-- 👨‍💻 JavaScript, React, Vue, Electron, PHP, Java, Python
-- 👁️ CSS, SASS, Bootstrap
-- 💽 MySQL, SQL, Node.js
+- 👨‍💻 JavaScript, React, Vue, Astro, Svelte, PHP, Java, Python
+- 👁️ CSS, SASS, Tailwind, Bootstrap
+- 💽 MySQL, SQL, Node.js, MongoDB
 
 ## Contact
 - [adrianthelawx@gmail.com](https://mailto:adrianthelawx@gmail.com)
